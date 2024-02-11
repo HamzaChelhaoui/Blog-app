@@ -1,0 +1,130 @@
+[
+  {
+    "accountID": "ACC1001",
+    "name": "John Doe",
+    "pin": "1234",
+    "balance": 14822,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 500,
+        "date": "2024-02-01"
+      },
+      {
+        "type": "withdraw",
+        "amount": 200,
+        "date": "2024-02-02"
+      },
+      {
+        "type": "deposit",
+        "amount": 8888,
+        "date": "2024-02-11T00:21:46.228Z"
+      },
+      {
+        "type": "withdraw",
+        "amount": 450,
+        "date": "2024-02-11T00:21:54.068Z"
+      },
+      {
+        "type": "deposit",
+        "amount": 4884,
+        "date": "2024-02-11T00:26:41.233Z"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1002",
+    "name": "Jane Smith",
+    "pin": "4321",
+    "balance": 2200,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      },
+      {
+        "type": "withdraw",
+        "amount": 300,
+        "date": "2024-02-04"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC$1003",
+    "name": "hamza",
+    "pin": "9746",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACCNaN",
+    "name": "hfjffj",
+    "pin": "5897",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACCNaN",
+    "name": "hgchyftufu",
+    "pin": "2837",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACCNaN",
+    "name": "haamza",
+    "pin": "7829",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACCNaN",
+    "name": "uvfuvyj",
+    "pin": "3556",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACCNaN",
+    "name": "hamza1",
+    "pin": "2331",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACCNaN",
+    "name": "HANAA",
+    "pin": "1370",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACCNaN",
+    "name": "OOOOO",
+    "pin": "2892",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACCNaN",
+    "name": "chaimaa",
+    "pin": "1388",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACCNaN",
+    "name": "REDA",
+    "pin": "7978",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACCNaN",
+    "name": "ZAHRA",
+    "pin": "6654",
+    "balance": 0,
+    "transactions": []
+  }
+]
