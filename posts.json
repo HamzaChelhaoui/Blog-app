@@ -44,5 +44,16 @@
       "AI",
       "Technology"
     ]
+  },
+  {
+    "id": "1",
+    "title": "The Power of Artificial Intelligence",
+    "author": "Adnan aws 2 ",
+    "date": "2023-07-15",
+    "content": "Artificial Intelligence (AI) ",
+    "tags": [
+      "AI",
+      "Technology"
+    ]
   }
 ]
