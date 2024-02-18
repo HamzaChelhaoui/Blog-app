@@ -1,0 +1,48 @@
+[
+  {
+    "id": "3",
+    "title": "The Power of Artificial Intelligence",
+    "author": "John  d Doe",
+    "date": "2023-07-15",
+    "content": "Artificial Intelligence (AI) ...",
+    "tags": [
+      "AI",
+      "Technology",
+      "Innovation"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "The Power of Artificial Intelligence",
+    "author": "ham ch ",
+    "date": "2023-07-15",
+    "content": "Artificial Intelligence (AI) ...",
+    "tags": [
+      "AI",
+      "Technology",
+      "Innovation"
+    ]
+  },
+  {
+    "id": "1",
+    "title": "The Power of Artificial Intelligence",
+    "author": "Adnan aws ",
+    "date": "2023-07-15",
+    "content": "Artificial Intelligence (AI) ",
+    "tags": [
+      "AI",
+      "Technology"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "The Power of Artificial Intelligence",
+    "author": "youssra ",
+    "date": "2023-07-15",
+    "content": "Artificial Intelligence (AI) ",
+    "tags": [
+      "AI",
+      "Technology"
+    ]
+  }
+]
